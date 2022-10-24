@@ -1,9 +1,16 @@
-#head-presentation {
-    max-width : 4800px;
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20em;
+    text-align: center;
+    grid-template-columns: 4;
+    grid-column: 1/4;
 }
-footer {
-    background-color: gray;
+img {
+    max-width: 250px;
+    z-index: -1;
+    position: relative;
+    left: 0px;
 }
-.design-images {
-    max-width: 4800px;
+h2 {
+    text-align: right bottom;
 }
