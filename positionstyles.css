@@ -107,7 +107,7 @@
 
 }
 .red4 {
-  width: 300px; 
+  width: 350px; 
   height: 450px; 
   background-color: red;
  
@@ -116,7 +116,7 @@
   width: 350px; 
   height: 150px; 
   background-color: green; 
-  margin-left: -302px;
+  margin-left: -100px;
   
 } 
 .yellow4 {
@@ -124,7 +124,7 @@
   height: 150px; 
   background-color: gold; 
   grid-column: 2;
-  margin-left: -302px;
+  margin-left: -100px;
   margin-top: -317px;
 } 
 .blue4 {
@@ -132,7 +132,7 @@
   height: 150px; 
   background-color: blue; 
   grid-column: 2;
-  margin-left: -302px;
+  margin-left: -100px;
   margin-top: -183px;
 } 
 /* Activity 5 styles */ 
@@ -155,8 +155,8 @@
   margin-right: 5px;
 } 
 .yellow5 {
-  width: 60%; 
-  height: 70%; 
+  width: 70%; 
+  height: 83%; 
   background-color: gold; 
 
 } 
@@ -191,7 +191,7 @@
   background-color: gold; 
   grid-column: 5/6;
   grid-row: 3/6;
-  margin-left: -500px;
+  margin-left: -300px;
   margin-top: -50px;
   z-index: 1;
 } 
