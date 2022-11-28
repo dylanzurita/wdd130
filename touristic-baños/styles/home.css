@@ -11,7 +11,6 @@ header {
 }
 nav {
     display: flex;
-    justify-content: space-around;
     font-family: var(--heading-font);;
     border-style: solid;
     border-width: 20px 5px;
@@ -53,25 +52,25 @@ p {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     max-width: 300px;
-    justify-self: left;
+    justify-self: right;
 }
 .home-page-imgs2 {
     max-width: 310px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    justify-self: left;
+    justify-self: right;
 }
 .home-page-imgs3 {
     max-width: 310px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    justify-self: left;
+    justify-self: right;
 }
 .home-page-imgs4 {
-    max-width: 310px;
+    max-width: 300px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    justify-self: left;
+    justify-self: right;
 }
 footer {
     background-color: burlywood;
