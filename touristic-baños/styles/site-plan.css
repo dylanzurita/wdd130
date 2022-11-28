@@ -174,3 +174,17 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
+
+header {
+  background-color: rgba(76, 168, 168, 0.171);
+  display: grid;
+  grid-template-columns: 150px auto;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+.logo {
+  max-width: 100px;
+}
