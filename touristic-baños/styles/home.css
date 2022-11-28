@@ -4,4 +4,7 @@
     --heading-font: "Ubuntu", sans-serif;
     --paragraph-font: Amatic SC, Helvetica, sans-serif;
 }
-.
+.title-front {
+    font-family: var(--heading-font);
+    font-size: 7em;
+}
