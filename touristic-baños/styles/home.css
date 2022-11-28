@@ -13,6 +13,7 @@ nav {
     display: flex;
     justify-content: space-around;
     font-family: var(--heading-font);
+    padding-bottom: -100px;
 }
 .logo {
     max-width: 200px;
