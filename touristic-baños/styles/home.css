@@ -41,6 +41,7 @@ p {
     font-family: var(--paragraph-font);
     font-size: 1.8em;
     line-height: 2em;
+    border: 30px;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
