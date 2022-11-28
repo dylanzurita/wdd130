@@ -12,9 +12,9 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
-    font-family: var(--heading-font);
-    padding-bottom: -1000000px;
-    content: 1000px;
+    font-family: var(--heading-font);;
+    border-style: solid;
+    border-width: 20px 5px;
 }
 .logo {
     max-width: 200px;
