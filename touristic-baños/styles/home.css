@@ -38,3 +38,32 @@ p {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
 }
+
+footer {
+    background-color: burlywood;
+    padding: 25px 50px;
+    margin-top: 50px;
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+}
+footer a {
+    color:rgb(17, 17, 18);
+    text-decoration: none;
+}
+footer a:hover {
+    color: rgb(92, 53, 208);
+}
+footer p {
+    font-size: 10px;
+}
+footer p:hover {
+    text-decoration: underline;
+}
+footer .social img {
+    padding-top: 15px;
+}
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
