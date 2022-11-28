@@ -20,6 +20,7 @@ nav {
 #front-img {
     display: block;
     margin: auto;
+    width: 100%;
 }
 .title-front {
     font-family: var(--heading-font);
