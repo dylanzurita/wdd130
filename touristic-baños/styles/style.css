@@ -12,13 +12,17 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
+    font-family: var(--heading-font);
 }
 .logo {
-    max-width: 800px;
+    max-width: 1000px;
 }
 .title-front {
     font-family: var(--heading-font);
     font-size: 6em;
+}
+h2 {
+    text-align: center;
 }
 p {
     font-family: var(--paragraph-font);
