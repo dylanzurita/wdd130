@@ -26,6 +26,12 @@ nav {
     font-size: 6em;
     text-align: center;
 }
+h2 {
+    font-family: var(--heading-font);
+}
+h3 {
+    font-family: var(--heading-font);
+}
 p {
     font-family: var(--paragraph-font);
     font-size: 2em;
