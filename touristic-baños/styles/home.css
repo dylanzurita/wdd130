@@ -10,3 +10,6 @@ nav {
     display: flex;
     justify-content: space-around;
 }
+.home-page-imgs {
+    width: 700px;
+}
