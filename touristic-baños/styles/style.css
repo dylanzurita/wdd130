@@ -8,3 +8,7 @@
     font-family: var(--heading-font);
     font-size: 7em;
 }
+p {
+    font-family: var(--paragraph-font);
+    font-size: 10em;
+}
