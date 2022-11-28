@@ -23,7 +23,7 @@ nav {
 }
 .title-front {
     font-family: var(--heading-font);
-    font-size: 6em;
+    font-size: 5em;
     text-align: center;
 }
 h2 {
@@ -39,7 +39,7 @@ h6 {
 }
 p {
     font-family: var(--paragraph-font);
-    font-size: 1em;
+    font-size: 1.8em;
     line-height: 2em;
     padding: 35px;
     grid-column: 6/10;
@@ -67,7 +67,7 @@ footer a:hover {
     color: rgb(92, 53, 208);
 }
 footer p {
-    font-size: 10px;
+    font-size: 50px;
 }
 footer p:hover {
     text-decoration: underline;
