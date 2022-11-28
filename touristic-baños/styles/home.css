@@ -2,17 +2,6 @@
 
 :root {
     --heading-font: "Ubuntu", sans-serif;
-    --paragraph-font: Quicksand, Helvetica, sans-serif;
+    --paragraph-font: Amatic SC, Helvetica, sans-serif;
 }
-header {
-    background-color: rgba(76, 168, 168, 0.171);
-    display: grid;
-    grid-template-columns: 150px auto;
-}
-nav {
-    display: flex;
-    justify-content: space-around;
-}
-.logo {
-    max-width: 100px;
-}
+.
