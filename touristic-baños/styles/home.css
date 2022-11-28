@@ -5,7 +5,7 @@
     --paragraph-font: Amatic SC, Helvetica, sans-serif;
 }
 header {
-    background-color: rgba(76, 168, 168, 0.171);
+    background-color:#373d20;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -15,7 +15,7 @@ nav {
     font-family: var(--heading-font);
 }
 .logo {
-    max-width: 1000px;
+    max-width: 700px;
 }
 #front-img {
     display: block;
@@ -28,5 +28,9 @@ nav {
 }
 p {
     font-family: var(--paragraph-font);
-    font-size: 3em;
+    font-size: 2em;
+    line-height: 2em;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 6/7;
 }
