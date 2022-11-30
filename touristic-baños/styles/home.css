@@ -66,6 +66,14 @@ p {
     font-size: 1.5em;
     grid-column: 1/2;
 }
+.location img{
+    grid-column: 2/3;
+    grid-template-columns: 100px 100px;
+}
+.maps_roads img{
+    grid-column: 2/3;
+    grid-template-columns: 100px 100px;
+}
 .home-page-imgs1, .home-page-imgs2, .home-page-imgs3, .home-page-imgs4{
     grid-column: 2/3;
 }
