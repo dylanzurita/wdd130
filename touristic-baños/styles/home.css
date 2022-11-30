@@ -31,12 +31,12 @@ nav a {
 }
 body {
     background-color: #b08060bd;
-    padding: 0;
+    padding: 5px;
     margin: 2px;
 }
 #front-img {
     display: block;
-    margin: auto;
+    margin-top: 20px;
     width: 100%;
 }
 .title-front {
