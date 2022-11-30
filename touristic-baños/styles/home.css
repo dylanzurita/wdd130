@@ -73,7 +73,7 @@ p {
 .home-page-imgs1 {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    max-width: 300px;
+    max-width: 400px;
     justify-self: end;
 }
 .home-page-imgs2 {
