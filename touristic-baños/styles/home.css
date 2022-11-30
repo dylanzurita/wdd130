@@ -15,8 +15,19 @@ nav {
     justify-content: center;
     justify-content: space-around;
 }
+nav a {
+    text-align: center;
+    color :rgba(2, 1, 1, 0.634);
+    text-decoration: none;
+    padding: 35px;
+}
 .logo {
     max-width: 200px;
+}
+#link-logo{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 #front-img {
     display: block;
