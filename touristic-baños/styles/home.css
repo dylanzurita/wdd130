@@ -18,7 +18,7 @@ nav {
 nav a {
     text-align: center;
     color :rgba(2, 1, 1, 0.634);
-    text-decoration: none;
+    text-decoration:rgb(17, 17, 18);
     padding: 35px;
 }
 .logo {
@@ -38,6 +38,10 @@ nav a {
     font-family: var(--heading-font);
     font-size: 4em;
     text-align: center;
+}
+.home-info{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
 }
 h2 {
     font-family: var(--heading-font);
@@ -78,7 +82,7 @@ p {
     justify-self: end;
 }
 .home-page-imgs4 {
-    max-width: 320px;
+    max-width: 340px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     justify-self: end;
