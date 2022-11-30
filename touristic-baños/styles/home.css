@@ -30,8 +30,7 @@ nav a {
     align-self: center;
 }
 body {
-    background-color: rgb(218, 186, 144);
-    font-family: var(--paragraph-font);
+    background-color: rgb(1, 1, 1);
     padding: 0;
     margin: 0;
 }
@@ -47,7 +46,7 @@ body {
 }
 .home-info{
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr;
 }
 h2 {
     font-family: var(--heading-font);
