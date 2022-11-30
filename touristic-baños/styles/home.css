@@ -52,11 +52,13 @@ h2 {
     font-family: var(--heading-font);
     font-size: 100px;
     grid-column: 1/2;
+    text-align: left;
 }
 h3 {
     font-family: var(--heading-font);
     font-size: 300px;
     grid-column: 1/2;
+    text-align: left;
 }
 h5 {
     font-family: var(--paragraph-font);
@@ -66,6 +68,7 @@ h5 {
 p {
     font-family: var(--paragraph-font);
     font-size: 1.5em;
+    text-align: left;
 }
 .location img{
     grid-column: 2/3;
