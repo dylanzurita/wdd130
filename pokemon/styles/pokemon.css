@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
+:root {
+    --heading-font: "Nanum Myeongjo";
+    --paragraph-font: Nanum Myeongjo, Helvetica, sans-serif;
+}    
 .container {
     position: relative;
     width: 50%;
@@ -10,7 +16,11 @@
     transition: .5s ease;
     backface-visibility: hidden;
 }
-  
+
+h2, p {
+    font-family: var(--heading-font);
+    font-size: 30px;
+}
 .middle {
     transition: .5s ease;
     opacity: 0;
@@ -31,6 +41,7 @@
 }
   
 .text {
+    font-family: var(--paragraph-font);
     background-color: #c37620b5;
     color: rgb(2, 2, 2);
     font-size: 16px;
