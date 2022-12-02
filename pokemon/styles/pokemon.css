@@ -26,12 +26,11 @@ h2, p {
 .middle {
     transition: .5s ease;
     opacity: 0;
-    top: 10%;
-    left: 10%;
+    top: 30%;
+    left: 30%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-align: center;
-
 }
   
 .container:hover .image {
