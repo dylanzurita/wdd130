@@ -111,13 +111,13 @@ h4 {
 }
 .links_pages {
     font-family: var(--paragraph-font);
-    font-size: 1.5em;
-    text-align: center;
+    font-size: 2em;
+    align-items: center;
 }
 .links_pages1 {
     font-family: var(--paragraph-font);
-    font-size: 1.5em;
-    text-align: center;
+    font-size: 2em;
+    align-items: center;
     margin-left: 10px;
 }
 footer {
