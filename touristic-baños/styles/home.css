@@ -17,6 +17,7 @@ nav {
 nav a {
     text-align: center;
     align-content: center;
+    justify-content: center;
     color :rgba(2, 1, 1, 0.634);
     text-decoration:rgb(17, 17, 18);
     padding: 30px;
