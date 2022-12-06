@@ -44,12 +44,4 @@ nav a:hover {
     font-size: 1.5em;
     font-weight: 400;
     color: #050505;
-    padding: 20px;
-    margin: 0 0 25px;
-    overflow: hidden;
-    border-radius: 35px 35px 35px 35px;
-    -moz-border-radius: 35px 35px 35px 35px;
-    -webkit-border-radius: 35px 35px 35px 35px;
-    border: 0px solid #000000;  
-    margin: auto;
 }
