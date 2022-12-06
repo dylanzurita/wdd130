@@ -78,28 +78,28 @@ h5 {
     grid-template-columns: 1fr 1fr;
 }
 .home-page-imgs1 {
-    border: 10px solid rgba(74, 74, 62, 0.573);
+    border: 5px solid rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     max-width: 250px;
     margin-top: 80px;
 }
 .home-page-imgs2 {
     max-width: 300px;
-    border: 10px solid rgba(74, 74, 62, 0.573);
+    border: 5px solid rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     margin-top: -40px;
     margin-bottom: 40px;
 }
 .home-page-imgs3 {
     max-width: 310px;
-    border: 10px solid rgba(74, 74, 62, 0.573);
+    border: 5px solid rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     margin-top: 100px;
     margin-left: 30px;
 }
 .home-page-imgs4 {
     max-width: 320px;
-    border: 10px solid rgba(74, 74, 62, 0.573);
+    border: 5px solid rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     margin-top: 100px;
 }
