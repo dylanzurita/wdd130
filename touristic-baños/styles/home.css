@@ -56,10 +56,10 @@ h5 {
 }
 .box {
     font-family: var(--paragraph-font);
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: 400;
-    width: 50%;
-    height: 30%;
+    width: 55%;
+    height: 35%;
     color: #050505;
     padding: 20px;
     margin: 0 0 25px;
@@ -71,7 +71,7 @@ h5 {
 }
 .home-info {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
 }
 .maps_roads {
     display: grid;
