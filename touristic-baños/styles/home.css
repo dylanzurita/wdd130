@@ -59,8 +59,8 @@ h5 {
     font-size: 1.3em;
     font-weight: 400;
     width: 60%;
-    height: 30%;
-    color: #717744;
+    height: 10%;
+    color: #050505;
     padding: 20px;
     margin: 0 0 25px;
     overflow: hidden;
@@ -72,6 +72,10 @@ h5 {
 .home-info {
     display: grid;
     grid-template-columns: 2fr 1fr;
+}
+.maps_roads {
+    display: grid;
+    grid-template-columns: 25px 25px;
 }
 .home-page-imgs1 {
     border: 10px rgba(74, 74, 62, 0.573);
