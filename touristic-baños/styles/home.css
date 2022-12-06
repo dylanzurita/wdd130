@@ -81,14 +81,14 @@ h5 {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     max-width: 250px;
-    margin-top: -20px;
+    margin-top: 30px;
 }
 .home-page-imgs2 {
     max-width: 300px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     margin-top: -40px;
-    margin-bottom: -40px;
+    margin-bottom: 40px;
 }
 .home-page-imgs3 {
     max-width: 310px;
@@ -99,7 +99,7 @@ h5 {
     max-width: 320px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    margin-top: -40px;
+    margin-top: 40px;
     margin-bottom: -40px;
 }
 footer {
