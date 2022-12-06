@@ -95,7 +95,7 @@ h5 {
     border: 5px solid rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     margin-top: 100px;
-    margin-left: 5px;
+    margin-left: -15px;
 }
 .home-page-imgs4 {
     max-width: 320px;
