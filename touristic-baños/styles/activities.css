@@ -48,6 +48,8 @@ nav a:hover {
     margin: 0 0 25px;
     overflow: hidden;
     border-radius: 35px 35px 35px 35px;
+    -moz-border-radius: 35px 35px 35px 35px;
+    -webkit-border-radius: 35px 35px 35px 35px;
     border: 0px solid #000000;  
     margin: auto;
 }
