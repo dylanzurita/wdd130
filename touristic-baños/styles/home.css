@@ -58,7 +58,7 @@ h5 {
     font-family: var(--paragraph-font);
     font-size: 1.5em;
     font-weight: 400;
-    width: 57%;
+    width: 60%;
     height: 35%;
     color: #050505;
     padding: 20px;
@@ -81,12 +81,14 @@ h5 {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     max-width: 250px;
+    margin-top: -20px;
 }
 .home-page-imgs2 {
     max-width: 300px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    grid-column: 2/3;
+    margin-top: -40px;
+    margin-bottom: -40px;
 }
 .home-page-imgs3 {
     max-width: 310px;
@@ -97,7 +99,8 @@ h5 {
     max-width: 320px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    grid-column: 2/3;
+    margin-top: -40px;
+    margin-bottom: -40px;
 }
 footer {
     background-color: #373d20;
