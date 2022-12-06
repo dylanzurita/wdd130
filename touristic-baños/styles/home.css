@@ -56,10 +56,10 @@ h5 {
 }
 .box {
     font-family: var(--paragraph-font);
-    font-size: 1.3em;
+    font-size: 2em;
     font-weight: 400;
-    width: 60%;
-    height: 10%;
+    width: 50%;
+    height: 30%;
     color: #050505;
     padding: 20px;
     margin: 0 0 25px;
@@ -80,11 +80,11 @@ h5 {
 .home-page-imgs1 {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    max-width: 400px;
+    max-width: 250px;
     justify-self: end;
 }
 .home-page-imgs2 {
-    max-width: 400px;
+    max-width: 300px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     justify-self: end;
