@@ -58,8 +58,8 @@ h5 {
     font-family: var(--paragraph-font);
     font-size: 1.5em;
     font-weight: 400;
-    width: 70%;
-    height: 30%;
+    width: 50%;
+    height: 60%;
     color: #717744;
     padding: 20px;
     margin: 0 0 25px;
@@ -68,6 +68,10 @@ h5 {
     -moz-border-radius: 34px 0px 34px 0px;
     -webkit-border-radius: 34px 0px 34px 0px;
     border: 3px solid #373d20;
+}
+.home-info {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
 }
 .home-page-imgs1 {
     border: 10px rgba(74, 74, 62, 0.573);
