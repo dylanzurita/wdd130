@@ -56,9 +56,9 @@ h5 {
 }
 .box {
     font-family: var(--paragraph-font);
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-weight: 400;
-    width: 55%;
+    width: 57%;
     height: 35%;
     color: #050505;
     padding: 20px;
@@ -81,13 +81,12 @@ h5 {
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
     max-width: 250px;
-    grid-column: 1/2;
 }
 .home-page-imgs2 {
     max-width: 300px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    grid-column: 1/2;
+    grid-column: 2/3;
 }
 .home-page-imgs3 {
     max-width: 310px;
@@ -98,7 +97,7 @@ h5 {
     max-width: 320px;
     border: 10px rgba(74, 74, 62, 0.573);
     transition: transform .5s;
-    grid-column: 1/2;
+    grid-column: 2/3;
 }
 footer {
     background-color: #373d20;
