@@ -21,6 +21,9 @@ nav a {
     text-decoration:rgb(17, 17, 18);
     padding: 30px;
 }
+nav a:hover {
+    background-color: burlywood;
+}
 .logo {
     max-width: 200px;
 }
