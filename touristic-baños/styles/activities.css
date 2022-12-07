@@ -68,3 +68,9 @@ p {
 .goblin1 p, .swing p, .hands p {
     margin: auto;
 }
+.swing img {
+    float: right;
+}
+.more-images {
+    width: 500px;
+}
