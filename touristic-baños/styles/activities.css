@@ -72,7 +72,6 @@ main p {
 }
 .goblin1 p, .swing p, .hands p {
     margin: auto;
-    margin-top: 20px;
 }
 .goblin1 p {
     margin: left;
