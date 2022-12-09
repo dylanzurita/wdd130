@@ -77,23 +77,24 @@ main p {
 .goblin1 p {
     margin: left;
     margin-right: 40px;
-    margin-bottom: 30px;
+    margin-top: -30px;
 }
 .swing p {
     margin: right;
     margin-left: 40px;
-    margin-bottom: 20px;
+    margin-top: -20px;
 }
 .hands p{
     margin: left;
     margin-right: 40px;
+    margin-top: -40px;
 }
 .goblin1 img, .hands img {
     width: 600px;
 }
 .swing img {
     float: right;
-    margin-bottom: 30px;
+    margin-top: -30px;
 }
 .more-images img{
     width: 500px;
