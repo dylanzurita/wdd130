@@ -70,16 +70,16 @@ main p {
     margin-top: 20px;
 }
 .goblin1 p {
-    margin: right;
-    margin-left: 40px;
-}
-.swing p {
     margin: left;
     margin-right: 40px;
 }
-.hands p{
+.swing p {
     margin: right;
     margin-left: 40px;
+}
+.hands p{
+    margin: left;
+    margin-right: 40px;
 }
 .goblin1 img, .hands img {
     width: 600px;
