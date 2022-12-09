@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Ubuntu:wght@300&display=swap');
+
+:root {
+    --heading-font: "Ubuntu", sans-serif;
+    --paragraph-font: Amatic SC, Helvetica, sans-serif;
+}
+header {
+    background-color:#bcbd8b;
+    display: grid;
+    grid-template-columns: 200px auto;
+}
+nav {
+    display: flex;
+    font-family: var(--heading-font);;
+    justify-content: space-around;
+}
+nav a {
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    color :rgba(2, 1, 1, 0.634);
+    text-decoration:rgb(17, 17, 18);
+    padding: 30px;
+}
+nav a:hover {
+    background-color: rgba(219, 223, 111, 0.745);
+}
+.logo {
+    max-width: 200px;
+}
+#link-logo{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
