@@ -76,12 +76,12 @@ main p {
 .goblin1 p {
     margin: left;
     margin-right: 40px;
-    margin-top: -300px;
+    margin-top: -250px;
 }
 .swing p {
     margin: right;
     margin-left: 40px;
-    margin-top: 150px;
+    margin-top: 180px;
 }
 .hands p{
     margin: left;
@@ -93,7 +93,7 @@ main p {
 }
 .swing img {
     float: right;
-    margin-top: -10px;
+    margin-top: -20px;
 }
 .more-images img{
     width: 500px;
