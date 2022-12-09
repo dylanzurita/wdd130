@@ -81,7 +81,7 @@ main p {
 .swing p {
     margin: right;
     margin-left: 40px;
-    margin-top: -20px;
+    margin-top: 20px;
 }
 .hands p{
     margin: left;
@@ -93,7 +93,7 @@ main p {
 }
 .swing img {
     float: right;
-    margin-top: -30px;
+    margin-top: -10px;
 }
 .more-images img{
     width: 500px;
