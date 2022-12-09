@@ -33,3 +33,15 @@ nav a:hover {
     justify-self: center;
     align-self: center;
 }
+h1 {
+    font-family: var(--paragraph-font);
+    font-size: 1.5em;
+    font-weight: 400;
+    width: 600px;
+    height: 220px;
+    color: #373d20;
+    border-radius: 15px 15px 15px 15px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    -webkit-border-radius: 15px 15px 15px 15px;
+    border: 0px solid #000000;
+}
