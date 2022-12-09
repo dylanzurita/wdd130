@@ -5,7 +5,7 @@
     --paragraph-font: Amatic SC, Helvetica, sans-serif;
 }
 header {
-    background-color:#bcbd8b;
+    background-color:#717744;
     display: grid;
     grid-template-columns: 200px auto;
 }
@@ -38,6 +38,11 @@ nav a:hover {
     font-size: 4em;
     text-align: center;
     color: #373d20;
+}
+body {
+    background-color: #72c0bfaa;
+    padding: 5px;
+    margin: 8px;
 }
 .intro-text {
     font-family: var(--paragraph-font);
@@ -72,10 +77,12 @@ main p {
 .goblin1 p {
     margin: left;
     margin-right: 40px;
+    margin-bottom: 30px;
 }
 .swing p {
     margin: right;
     margin-left: 40px;
+    margin-bottom: 20px;
 }
 .hands p{
     margin: left;
@@ -86,6 +93,7 @@ main p {
 }
 .swing img {
     float: right;
+    margin-bottom: 30px;
 }
 .more-images img{
     width: 500px;
@@ -94,7 +102,7 @@ main p {
 }
 .pacha-hands {
     width: 600px;
-    height: 500px; 
+    height: 400px; 
     margin-left: 30px;
 }
 footer {
