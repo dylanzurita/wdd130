@@ -67,15 +67,19 @@ main p {
 }
 .goblin1 p, .swing p, .hands p {
     margin: auto;
+    margin-top: 20px;
 }
 .goblin1 p {
     margin: right;
+    margin-left: 40px;
 }
 .swing p {
     margin: left;
+    margin-right: 40px;
 }
 .hands p{
     margin: right;
+    margin-left: 40px;
 }
 .goblin1 img, .hands img {
     width: 600px;
@@ -85,6 +89,10 @@ main p {
 }
 .more-images img{
     width: 500px;
+}
+.pacha-hands {
+    width: 600px;
+    height: 100px; 
 }
 footer {
     background-color: #373d20;
