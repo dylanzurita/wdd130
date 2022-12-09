@@ -33,6 +33,11 @@ nav a:hover {
     justify-self: center;
     align-self: center;
 }
+body {
+    background-color: #abb67bac;
+    padding: 5px;
+    margin: 8px;
+}
 h1 {
     font-family: var(--heading-font);
     font-size: 3em;
@@ -45,9 +50,10 @@ h1 {
     -webkit-border-radius: 15px 15px 15px 15px;
     border: 4px solid #000000;
     text-decoration: underline;
+    margin: auto;
 }
 main p{
-    font-family: var(--heading-font);
+    font-family: var(--paragraph-font);
     font-size: 1.5em;
     font-weight: 400;
     width: 900px;
@@ -57,4 +63,40 @@ main p{
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
     border: 0px solid #000000;
+    margin: auto;
+}
+.family-imgs {
+    width: 300px;
+    border: 5px solid rgba(136, 238, 186, 0.573);
+}
+.trip-imgs {
+    width: 300px;
+    border: 5px solid rgba(136, 238, 186, 0.573);
+}
+footer {
+    background-color: #373d20;
+    padding: 25px;
+    margin-top: 50px;
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+}
+footer a {
+    color:rgb(17, 17, 18);
+    text-decoration: none;
+}
+footer a:hover {
+    color: rgb(107, 78, 196);
+}
+footer p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    content: -100px ;
+}
+footer p:hover {
+    text-decoration: underline;
+}
+footer .social img {
+    padding-top: 15px;
 }
