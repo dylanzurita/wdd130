@@ -62,7 +62,7 @@ main p{
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    border: 2px solid #000000;
+    border: 0px solid #000000;
     margin: auto;
 }
 .family-imgs {
@@ -70,8 +70,12 @@ main p{
     border: 5px solid rgba(136, 238, 186, 0.573);
 }
 .trip-imgs, .trip-imgs2, .trip-imgs3{
-    width: 500px;
+    width: 400px;
     border: 5px solid rgba(136, 238, 186, 0.573);
+}
+.trip-imgs {
+    width: 400px;
+    height: 300px;
 }
 .trip-imgs2 {
     float: center;
