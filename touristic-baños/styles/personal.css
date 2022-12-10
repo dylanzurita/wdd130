@@ -42,8 +42,8 @@ h1 {
     font-family: var(--heading-font);
     font-size: 3em;
     font-weight: 400;
-    width: 200px;
-    height: 100px;
+    width: 250px;
+    height: 120px;
     color: #373d20;
     border-radius: 15px 15px 15px 15px;
     -moz-border-radius: 15px 15px 15px 15px;
@@ -56,8 +56,8 @@ main p{
     font-family: var(--paragraph-font);
     font-size: 1.5em;
     font-weight: 400;
-    width: 1200px;
-    height: 100px;
+    width: 1300px;
+    height: 180px;
     color: #010101;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
