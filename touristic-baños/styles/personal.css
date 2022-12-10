@@ -74,6 +74,12 @@ main p{
     border: 5px solid rgba(136, 238, 186, 0.573);
     transition: transform .5s;
 }
+.family-imgs2 {
+    margin-left: 80px;
+}
+.family-imgs3{
+    float: right;
+}
 .trip-imgs, .trip-imgs2, .trip-imgs3{
     width: 400px;
     border: 5px solid rgba(136, 238, 186, 0.573);
@@ -84,12 +90,12 @@ main p{
     height: 300px;
 }
 .trip-imgs2 {
-    margin-left: 100px;
+    margin-left: 80px;
 }
 .trip-imgs3 {
     float: right;
-    width: 500px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
 }
 footer {
     background-color: #373d20;
