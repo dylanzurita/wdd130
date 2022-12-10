@@ -43,7 +43,7 @@ h1 {
     font-size: 3em;
     font-weight: 400;
     width: 200px;
-    height: 50px;
+    height: 100px;
     color: #373d20;
     border-radius: 15px 15px 15px 15px;
     -moz-border-radius: 15px 15px 15px 15px;
@@ -62,15 +62,15 @@ main p{
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    border: 0px solid #000000;
+    border: 2px solid #000000;
     margin: auto;
 }
 .family-imgs {
-    width: 300px;
+    width: 500px;
     border: 5px solid rgba(136, 238, 186, 0.573);
 }
 .down-imgs img{
-    width: 300px;
+    width: 500px;
     border: 5px solid rgba(136, 238, 186, 0.573);
 }
 .trip-imgs3 {
