@@ -1,149 +1,137 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Ubuntu:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Ubuntu:wght@300&display=swap') ;
 :root {
-    --heading-font: "Ubuntu", sans-serif;
-    --paragraph-font: Amatic SC, Helvetica, sans-serif;
+    --heading-font : "Ubuntu",sans-serif;
+    --paragraph-font : Amatic SC,Helvetica,sans-serif;
 }
 header {
-    background-color:#bcbd8b;
-    display: grid;
-    grid-template-columns: 200px auto;
+    background-color : #bcbd8b;
+    display : grid;
+    grid-template-columns : 200px auto;
 }
 nav {
-    display: flex;
-    font-family: var(--heading-font);;
-    justify-content: space-around;
+    display : flex;
+    justify-content : space-around;
 }
 nav a {
-    text-align: center;
-    align-content: center;
-    justify-content: center;
-    color :rgba(2, 1, 1, 0.634);
-    text-decoration:rgb(17, 17, 18);
-    padding: 30px;
+    text-align : center;
+    align-content : center;
+    justify-content : center;
+    color : rgb(2, 1, 1, 0.634);
+    text-decoration : rgb(17, 17, 18);
+    padding : 30px;
 }
 nav a:hover {
-    background-color: rgba(219, 223, 111, 0.745);
+    background-color : rgb(219, 223, 111, 0.745);
 }
 .logo {
-    max-width: 200px;
+    max-width : 200px;
 }
-#link-logo{
-    padding-top: 5px;
-    justify-self: center;
-    align-self: center;
+#link-logo {
+    padding-top : 5px;
+    justify-self : center;
+    align-self : center;
 }
 body {
-    background-color: #c08c72aa;
-    padding: 5px;
-    margin: 8px;
+    background-color : #c08c72aa;
+    padding : 5px;
+    margin : 8px;
 }
 #front-img {
-    display: block;
-    margin-top: 20px;
-    width: 100%;
+    display : block;
+    margin-top : 20px;
+    width : 100%;
 }
 .title-front {
-    font-family: var(--heading-font);
-    font-size: 4em;
-    text-align: center;
-    color: #373d20;
+    font-size : 4em;
+    text-align : center;
+    color : #373d20;
 }
 h2, h3 {
-    font-family: var(--heading-font);
-    font-size: 2em;
+    font-size : 2em;
 }
 h5 {
-    font-family: var(--paragraph-font);
-    font-size: 1.5em;
-    text-align: center;
+    font-size : 1.5em;
+    text-align : center;
 }
 .box {
-    font-family: var(--paragraph-font);
-    font-size: 1.5em;
-    font-weight: 400;
-    width: 500px;
-    height: 300px;
-    color: #050505;
-    padding: 20px;
-    margin: 0 0 25px;
-    overflow: hidden;
-    border-radius: 34px 0px 34px 0px;
-    -moz-border-radius: 34px 0px 34px 0px;
-    -webkit-border-radius: 34px 0px 34px 0px;
-    border: 3px solid #373d20;
+    font-size : 1.5em;
+    font-weight : 400;
+    width : 500px;
+    height : 300px;
+    color : #050505;
+    padding : 20px;
+    margin : 0 0 25px;
+    overflow : hidden;
+    border-radius : 34px 0 34px 0;
+    border : #373d20 solid 3px;
 }
 .home-info {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display : grid;
+    grid-template-columns : 1fr 1fr;
 }
 .home-page-imgs1 {
-    border: 5px solid rgba(74, 74, 62, 0.573);
-    transition: transform .5s;
-    max-width: 250px;
-    margin-top: 80px;
+    border : rgb(74, 74, 62, 0.573) solid 5px;
+    transition : transform 0.5s;
+    max-width : 250px;
+    margin-top : 80px;
 }
 .home-page-imgs2 {
-    max-width: 300px;
-    border: 5px solid rgba(74, 74, 62, 0.573);
-    transition: transform .5s;
-    margin-top: -40px;
-    margin-bottom: 40px;
+    max-width : 300px;
+    border : rgb(74, 74, 62, 0.573) solid 5px;
+    transition : transform 0.5s;
+    margin-top : -40px;
+    margin-bottom : 40px;
 }
 .home-page-imgs3 {
-    max-width: 310px;
-    border: 5px solid rgba(74, 74, 62, 0.573);
-    transition: transform .5s;
-    margin-top: 100px;
-    margin-left: -15px;
+    max-width : 310px;
+    border : rgb(74, 74, 62, 0.573) solid 5px;
+    transition : transform 0.5s;
+    margin-top : 100px;
+    margin-left : -15px;
 }
 .home-page-imgs4 {
-    max-width: 320px;
-    border: 5px solid rgba(74, 74, 62, 0.573);
-    transition: transform .5s;
-    margin-top: 100px;
+    max-width : 320px;
+    border : rgb(74, 74, 62, 0.573) solid 5px;
+    transition : transform 0.5s;
+    margin-top : 100px;
 }
 h4 {
-    font-family: var(--heading-font);
-    font-size: 2.5em;
-    text-align: center;
-    color: #373d20;
+    font-size : 2.5em;
+    text-align : center;
+    color : #373d20;
 }
 .links_pages {
-    font-family: var(--paragraph-font);
-    font-size: 2em;
-    align-items: center;
+    font-size : 2em;
+    align-items : center;
 }
 .links_pages1 {
-    font-family: var(--paragraph-font);
-    font-size: 2em;
-    align-items: center;
-    margin-left: 10px;
+    font-size : 2em;
+    align-items : center;
+    margin-left : 10px;
 }
 footer {
-    background-color: #373d20;
-    padding: 25px;
-    margin-top: 50px;
-    display: grid;
-    justify-content: space-around;
-    align-items: center;
+    background-color : #373d20;
+    padding : 25px;
+    margin-top : 50px;
+    display : grid;
+    justify-content : space-around;
+    align-items : center;
 }
 footer a {
-    color:rgb(17, 17, 18);
-    text-decoration: none;
+    color : rgb(17, 17, 18);
+    text-decoration : none;
 }
 footer a:hover {
-    color: rgb(107, 78, 196);
+    color : rgb(107, 78, 196);
 }
 footer p {
-    font-size: 20px;
-    text-align: center;
-    padding-top: 20px;
-    content: -100px ;
+    font-size : 20px;
+    text-align : center;
+    padding-top : 20px;
 }
 footer p:hover {
-    text-decoration: underline;
+    text-decoration : underline;
 }
 footer .social img {
-    padding-top: 15px;
+    padding-top : 15px;
 }
