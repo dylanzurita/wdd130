@@ -1,5 +1,5 @@
 header {
-    background-color : #bcbd8b;
+    background-color : rgba(17, 101, 197, 0.634);
     display : grid;
     grid-template-columns : 200px auto;
 }
@@ -11,7 +11,7 @@ nav a {
     text-align : center;
     align-content : center;
     justify-content : center;
-    color : rgba(17, 101, 197, 0.634);
+    color : rgba(9, 9, 9, 0.634);
     text-decoration : rgb(17, 17, 18);
     padding : 30px;
 }
@@ -34,11 +34,12 @@ body {
 .music img{
     width: 300px;
     z-index: -1;
+    margin-left: -300px;
 }
 .music audio {
     width: 400px;
     margin-top: -500px;
-    margin-bottom: 700px;
+    margin-bottom: 100px;
     margin-left: 500px;
 }
 .msg p {
