@@ -34,7 +34,6 @@ body {
 .music img{
     width: 250px;
     z-index: -1;
-    margin-left: -300px;
 }
 .music audio {
     width: 300px;
@@ -59,9 +58,11 @@ body {
 }
 .primeras-imagenes img{
     width: 500px;
+    margin-top: 10em;
 }
 .segundas-imagenes img {
     width: 500px;
+    margin-top: 10em;
 }
 main h4 {
     font-size : 1em;
@@ -70,10 +71,11 @@ main h4 {
     height : 100px;
     color : #f8f5f5;
     padding : 20px;
-    margin : 0 0 25px;
     overflow : hidden;
     border-radius : 34px 34px 34px 34px;
     border : #373d20 solid 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .woops {
     float: right;
