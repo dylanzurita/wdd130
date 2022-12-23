@@ -61,8 +61,13 @@ body {
     margin-top: 10em;
 }
 .segundas-imagenes img {
-    width: 500px;
+    width: 200px;
     margin-top: 10em;
+    transition: 0.5s;
+    object-fit: cover;
+}
+.segundas-imagenes img:hover{
+    transform: scale(3);
 }
 main h4 {
     font-size : 1em;
@@ -77,10 +82,169 @@ main h4 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-.woops {
-    float: right;
+.woops-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
 }
-.woops h4 {
-    position: relative;
-    right: 50px;
+.uni-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.perfil-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.once-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.pesc-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.sol-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.pjs-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.guapa-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.carita-class {
+    width: 500px;
+    height: 500px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+
+
+
+
+
+
+.taco-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.cami-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.pulsera-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.gordis-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.chiquitina-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.reina-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.desp-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.estado-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.zoom-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.filtro-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
+}
+.nofilt-class {
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    overflow: hidden;
+    border-radius: 0px;
+    border:rgba(9, 9, 9, 0.634) 0;
 }
