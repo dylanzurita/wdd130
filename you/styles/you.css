@@ -84,7 +84,7 @@ body {
     margin-bottom: 10px;
 }
 .segundas-imagenes h4 {
-    font-size : 50px;
+    font-size : 0.5em;
     font-weight : 50;
     width : 600px;
     height : 100px;
@@ -195,7 +195,7 @@ body {
     padding: 20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border: rgba(226, 51, 51, 0.634) 3px;
 }
 .cami-class {
     width: 200px;
@@ -203,7 +203,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .pulsera-class {
     width: 200px;
@@ -211,7 +211,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .gordis-class {
     width: 200px;
@@ -219,7 +219,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .chiquitina-class {
     width: 200px;
@@ -227,7 +227,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .reina-class {
     width: 200px;
@@ -235,7 +235,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .desp-class {
     width: 200px;
@@ -243,7 +243,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .estado-class {
     width: 200px;
@@ -251,7 +251,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .zoom-class {
     width: 200px;
@@ -259,7 +259,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .filtro-class {
     width: 200px;
@@ -267,7 +267,7 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
 .nofilt-class {
     width: 100px;
@@ -275,5 +275,5 @@ body {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 3px;
+    border:rgba(226, 51, 51, 0.634) 3px;
 }
