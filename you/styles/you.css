@@ -34,13 +34,13 @@ body {
 .music img{
     width: 250px;
     z-index: -1;
-    margin-left: -200px;
+    margin-left: -20px;
 }
 .music audio {
     width: 270px;
     margin-top: -750px;
     margin-bottom: 150px;
-    margin-left: -260px;
+    margin-left: -20px;
     border-radius : 15px 15px 15px 15px;
     border : white solid 3px;
     color: rgba(255, 255, 255, 0.191)
