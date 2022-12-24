@@ -34,13 +34,13 @@ body {
 .music img{
     width: 250px;
     z-index: -1;
-    margin-left: -20px;
+    margin-left: -15px;
 }
 .music audio {
     width: 270px;
-    margin-top: -750px;
+    margin-top: -8200px;
     margin-bottom: 150px;
-    margin-left: -20px;
+    margin-left: -10px;
     border-radius : 15px 15px 15px 15px;
     border : white solid 3px;
     color: rgba(255, 255, 255, 0.191)
@@ -102,7 +102,7 @@ body {
     transform: scale(6);
 }
 .woops-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -110,7 +110,7 @@ body {
     border:rgba(9, 9, 9, 0.634) 0;
 }
 .uni-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -118,7 +118,7 @@ body {
     border:rgba(9, 9, 9, 0.634) 0;
 }
 .perfil-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -127,10 +127,10 @@ body {
 }
 .una-vez{
     width: 300px;
-    height: 600px;
+    height: 800px;
 }
 .once-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -138,7 +138,7 @@ body {
     border:rgba(9, 9, 9, 0.634) 0;
 }
 .pesc-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -146,15 +146,18 @@ body {
     border:rgba(9, 9, 9, 0.634) 0;
 }
 .sol-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
     border:rgba(9, 9, 9, 0.634) 0;
 }
+.pijama {
+    width: 300px;
+}
 .pjs-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -162,7 +165,7 @@ body {
     border:rgba(9, 9, 9, 0.634) 0;
 }
 .guapa-class {
-    width: 500px;
+    width: 700px;
     height: 900px;
     padding:20px;
     overflow: hidden;
@@ -171,10 +174,9 @@ body {
 }
 .cara-tapada {
     width: 300px;
-    height: 700px;
 }
 .carita-class {
-    width: 500px;
+    width: 700px;
     height: 980px;
     padding:20px;
     overflow: hidden;
