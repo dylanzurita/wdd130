@@ -70,7 +70,7 @@ body {
 .segundas-imagenes img:hover{
     transform: scale(3);
 }
-main h4 {
+.primeras-imagenes h4 {
     font-size : 1em;
     font-weight : 200;
     width : 600px;
@@ -82,6 +82,24 @@ main h4 {
     border : #373d20 solid 0;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.segundas-imagenes h4 {
+    font-size : 50px;
+    font-weight : 50;
+    width : 600px;
+    height : 100px;
+    color : #f8f5f5;
+    padding : 20px;
+    overflow : hidden;
+    border-radius : 34px 34px 34px 34px;
+    border : #373d20 solid 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: 0.5s;
+    object-fit: cover;
+}
+.segundas-imagenes h4:hover {
+    transform: scale(6);
 }
 .woops-class {
     width: 500px;
@@ -175,7 +193,7 @@ main h4 {
     padding: 20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .cami-class {
     width: 200px;
@@ -183,7 +201,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .pulsera-class {
     width: 200px;
@@ -199,7 +217,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .chiquitina-class {
     width: 200px;
@@ -207,7 +225,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .reina-class {
     width: 200px;
@@ -215,7 +233,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .desp-class {
     width: 200px;
@@ -223,7 +241,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .estado-class {
     width: 200px;
@@ -231,7 +249,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .zoom-class {
     width: 200px;
@@ -239,7 +257,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .filtro-class {
     width: 200px;
@@ -247,7 +265,7 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
 .nofilt-class {
     width: 100px;
@@ -255,5 +273,5 @@ main h4 {
     padding:20px;
     overflow: hidden;
     border-radius: 0px;
-    border:rgba(9, 9, 9, 0.634) 0;
+    border:rgba(9, 9, 9, 0.634) 3px;
 }
